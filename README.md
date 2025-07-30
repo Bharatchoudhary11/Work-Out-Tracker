@@ -16,8 +16,5 @@ When you don't want a button anymore you can just hover over the "Resets every x
 
 You also have other options on the account tab at the top, where you can reset all counts on your buttons, delete all of your buttons, change your password, or delete your account.
 
-It's already up on heroku and of course it's free to use, so give it a try!
 
-https://thisistasky.herokuapp.com/
 
-Made by cooldev_ (Joaquín Jordán O'Connor).
